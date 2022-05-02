@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSS Globes Feed</string>
+    <string name="tvLoading">Loading RSS Items..</string>
+    <string name="conError">There is no access to internet on your device!</string>
+    <string name="BOIURL">https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585</string>
+    <string name="titleloaded">  </string>
+</resources>
